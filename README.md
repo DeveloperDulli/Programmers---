@@ -6,9 +6,9 @@
 
 ##### Control Statement - 제어문
 	1. if문
-     	2. 연산자
+	2. 연산자
 	3. switch문
-     	4. while문
+	4. while문
 	5. for문
 
 ##### Array - 배열
