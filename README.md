@@ -10,3 +10,7 @@
 	     	3. switch문
 	     	4. while문
  	     	5. for문
+
+##### Array - 배열
+	   1. 2차원배열
+	   2. for each문
