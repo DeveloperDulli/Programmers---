@@ -16,3 +16,6 @@
 	2. for each문
 	3. 구구단 만들기 실습
 	4. 별찍기 실습
+
+##### Class and Object - 클래스와 객체
+	1. Class문
