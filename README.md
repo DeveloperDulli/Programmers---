@@ -19,15 +19,10 @@
 
 ##### Class and Object - 클래스와 객체
 	1. Class문
-<<<<<<< HEAD
 	2. String클래스 및 String클래스
 	3. field 선언
 	4. Method 선언 및 사용
 	5. 변수의 scope와 static
 	6. 열거형
-=======
 
 
-
-
->>>>>>> ce568ffb0c930ebf54286ccd28e6f3ca42da1107
