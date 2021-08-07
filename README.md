@@ -49,9 +49,12 @@
 #### Exception handling
 	1. Exception
 	2. Throws
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 502751b0930052cebd9ad394f9cd5c0fed8152c2
 	
 
 
