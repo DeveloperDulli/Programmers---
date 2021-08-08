@@ -47,8 +47,10 @@
 	4. 외부클래스
 
 #### Exception handling
-	1. Exception
+	1. Exception 
 	2. Throws
+	3. 사용자 정의 Exception
+	4. 약수의합 실습
 
 	
 
